@@ -17,5 +17,5 @@ show hidden message in image:<br>
 
 ### notes
 - The tool works well with short messages (max 15-20 characters)<br>
-- For messages with spaces use quotation marks (example: "hello world")<br>
+- For messages with spaces use quotation marks (example: `python3 abell.py --hide image.png "hello world"`)<br>
 - The output file is a png image<br>
